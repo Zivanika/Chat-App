@@ -2,7 +2,7 @@
 
 <p>Explore the world of dynamic communication with our Real-Time Chat App built using React and Chat Engine. This GitHub repository houses a feature-rich chat application, enabling seamless messaging, media sharing, and dynamic updates in a modern user interface. </p>
 
-[Visit Now]()🚀
+[Visit Now](https://zivanika.github.io/Chat-App/)🚀
 ### `npm start`
 
 Runs the app in the development mode.\
