@@ -1,8 +1,8 @@
-<h1 align="center">ZenChat: Real-Time Chat Application</h1>
+<h1 align="center">Pingspace: Real-Time Chat Application</h1>
 
 <p>Explore the world of dynamic communication with our Real-Time Chat App built using React and Chat Engine. This GitHub repository houses a feature-rich chat application, enabling seamless messaging, media sharing, and dynamic updates in a modern user interface. </p>
 
-[Visit Now](https://zethyst.github.io/ChatApp/) 🚀
+[Visit Now]()🚀
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -58,9 +58,9 @@ You may also see any lint errors in the console.
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jaiswal-4664a2197)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-barnwal-17a732234/)
 
-© 2023 Akshat Jaiswal
+© 2023 Harshita Barnwal
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
