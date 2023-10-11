@@ -1,7 +1,7 @@
 {
   "name": "chatapp",
   "version": "0.1.0",
-  "homepage": "https://zethyst.github.io/ChatApp",
+  "homepage": "https://Zivanika.github.io/Chat-App",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
